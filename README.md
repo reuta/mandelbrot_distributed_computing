@@ -9,5 +9,5 @@ Am Ende wird das Teilbild zusammengefügt.
 Das Mandelbrot-Fraktal wird mithilfe eines eigen programmiertem Mandelbrot-Renderer (C++) erzeugt. Mithilfe von MPI (Message Passing Interface) wird das Cluster realisiert.
 
 ## Von
-Jonas Tejada Heidenhain
-Adrian Reuter
+- Jonas Tejada Heidenhain
+- Adrian Reuter
